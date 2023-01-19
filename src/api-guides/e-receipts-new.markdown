@@ -760,3 +760,7 @@ To log a support case, please login and open a partner support case from [partne
 The SAP Concur API monthly updates can be found in the [Developer Platform Release Notes](https://developer.concur.com/tools-support/release-notes/index.html).
 
 The SAP Concur product related update can be found in the [Client Shared Release Notes](http://www.concurtraining.com/customers/tech_pubs/RN_shared_planned/_client_shared_RN_all.htm).
+ 
+### What all documentation is required for certification?
+  
+ For certification, you need to submit an App Listing Form on the submission date mentioned in the App Release Schedule. The App Listing form can be found at: ([Download](https://developer.concur.com/manage-apps/go-market-docs/app-center-partner-listing-form.docx)).
